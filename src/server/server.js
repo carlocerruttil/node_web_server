@@ -14,7 +14,7 @@ const startServer = (options) =>{
     })
 
     app.listen(port,() => {
-        console.log(`Servidor corriendo en el puerto ${port}`)
+        console.log(`Servidor corriendo en el puerto ${port}`) 
     })
 }
 
